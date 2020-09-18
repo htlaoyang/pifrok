@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Pifrok - 岩木邦™',
   description: 'Pifrok',
-  base: '/blog/', 
+  base: '/pifrok/', 
   themeConfig: {
     dateFormat: 'YYYY-MM-DD',
     nav: [
