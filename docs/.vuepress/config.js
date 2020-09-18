@@ -89,11 +89,11 @@ module.exports = {
        lengthPerPage: 3,
     },
     comment: {
-      service: 'vssue',
-      owner: 'zhb333',
-      repo: 'readme-blog', 
-      clientId: '',
-      clientSecret: '',
+      service: 'pifrok',
+      owner: 'htlaoyang',
+      repo: 'pifrok', 
+      clientId: '6a0f09e343a9f15cb7e9',
+      clientSecret: '6515b5f09b373fbe1f21c8f40ad42ee44b16be22',
     },
 
     /**
